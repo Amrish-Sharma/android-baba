@@ -76,6 +76,7 @@ timer_start();
 wp_debug_mode();
 
 /**
+ * This was used for debug mode
  * Filters whether to enable loading of the advanced-cache.php drop-in.
  *
  * This filter runs before it can be used by plugins. It is designed for non-web
